@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "main.h": "c",
+        "i2c.h": "c",
+        "oled.h": "c",
+        "oled_font.h": "c",
+        "string.h": "c",
+        "stdint.h": "c",
+        "font.h": "c"
+    }
+}
